@@ -18,9 +18,6 @@ namespace wcw
     
     ~Card() = default;
     
-    /*mem_hook m_cur_hook;
-    mem_hook m_deck_hook;*/
-    
     std::string_view word() const noexcept { return m_word; }
     std::string_view translate() const noexcept { return m_translate; }
     
@@ -29,9 +26,6 @@ namespace wcw
     
     void unlink_from_deck() { auto_unlink_hook::unlink(); }
     bool is_linked_deck() const { return auto_unlink_hook::is_linked(); }
-    
-   /* void unlink_from_current() { m_cur_hook.unlink(); }
-    bool is_linked_current() const { return m_cur_hook.is_linked(); }*/
     
   private:
     std::string m_word;
