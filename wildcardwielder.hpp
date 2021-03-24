@@ -14,10 +14,10 @@ namespace wcw
   constexpr char const delimiter = '-';
   constexpr char const newline = '\n';
   constexpr char const* lists_separator = "===";
-  constexpr char const* wrong_response = "you are a stupid idiot! correct translate is: ";
+  constexpr char const* wrong_response = "you are a stupid idiot! correct is: ";
   constexpr char const* right_response = "rrright!\n";
   
-  constexpr std::size_t cards_qty = 5;
+  constexpr std::size_t cards_qty = 10;
   
   class WildCardWielder
   {
@@ -90,7 +90,7 @@ namespace wcw
       {
         it = get_random_card(m_to_show.begin(), m_to_show.end());
         std::cout << (*it).word() << std::endl;
-        std::cin >> res;
+        std::getline(std::cin, res);
         if(res != (*it).translate())
         {
           std::cout << wrong_response << (*it).translate() << newline;
@@ -122,7 +122,7 @@ namespace wcw
     {
       Deck::iterator it;
       m_to_show.clear();
-      auto r = 2*cards_qty/3;
+      auto r = 3*cards_qty/4;
       
       for(std::size_t i = 0; i < r; ++i)
       {
