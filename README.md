@@ -15,7 +15,11 @@ $ make install
 
 #### Run
 ```shell
-$ wcw /path/to/cards_file
+$ wcw -f /path/to/cards_file
+```
+Reverse word translation:
+```shell
+$ wcw -f /path/to/cards_file -r
 ```
 
 #### Cards format
