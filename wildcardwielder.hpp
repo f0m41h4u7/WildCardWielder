@@ -22,7 +22,10 @@ namespace wcw
   class WildCardWielder
   {
   public:
-    WildCardWielder(std::string& filename) : m_fname(filename){}
+    WildCardWielder(std::string& filename, bool is_reverse)
+    : m_fname(filename),
+      m_is_reverse(is_reverse)
+    {}
     ~WildCardWielder() = default;
     
     bool deserialize()
@@ -83,17 +86,28 @@ namespace wcw
     {
       shuffle();
       
-      std::string res;
+      std::string res, check;
       Deck::iterator it;
       
       for(std::size_t i = 0; i < cards_qty; ++i)
       {
         it = get_random_card(m_to_show.begin(), m_to_show.end());
-        std::cout << (*it).word() << std::endl;
-        std::getline(std::cin, res);
-        if(res != (*it).translate())
+		
+        if(m_is_reverse)
         {
-          std::cout << wrong_response << (*it).translate() << newline;
+          std::cout << (*it).word() << std::endl;
+          check = (*it).translate();
+        }
+        else
+        {
+          std::cout << (*it).translate() << std::endl;
+          check = (*it).word();
+        }
+		
+        std::getline(std::cin, res);
+        if(res != check)
+        {
+          std::cout << wrong_response << check << newline;
           (*it).unlink_from_deck();
           m_to_repeat.push_back(*it);
         }
@@ -140,6 +154,7 @@ namespace wcw
     }
     
     std::string m_fname;
+	  bool        m_is_reverse{false};
     
     Deck m_to_show;
     Deck m_to_repeat;
