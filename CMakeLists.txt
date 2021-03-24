@@ -19,3 +19,5 @@ target_link_libraries(wcw ${CMAKE_THREAD_LIBS_INIT} boost_system pthread)
 target_compile_options(wcw PRIVATE
   -Wall -Wextra -pedantic
 )
+
+install(TARGETS wcw RUNTIME DESTINATION bin)
