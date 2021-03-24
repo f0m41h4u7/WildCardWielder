@@ -4,7 +4,7 @@
 
 namespace po = boost::program_options;
 
-int main()
+int main(int argc, char** argv)
 {
   try
   {
@@ -16,7 +16,7 @@ int main()
     ;
 
     po::variables_map vm;
-    po::store(po::parse_command_line(desc), vm);
+    po::store(po::parse_command_line(argc, argv, desc), vm);
     po::notify(vm);    
 
     if (vm.count("help"))
