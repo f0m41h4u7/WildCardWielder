@@ -14,7 +14,7 @@ target_include_directories(wcw
     PRIVATE "${CMAKE_BINARY_DIR}" ${Boost_INCLUDE_DIRS}
 )
 
-target_link_libraries(wcw ${CMAKE_THREAD_LIBS_INIT} boost_system pthread program_options)
+target_link_libraries(wcw ${CMAKE_THREAD_LIBS_INIT} boost_system pthread boost_program_options)
 
 target_compile_options(wcw PRIVATE
   -Wall -Wextra -pedantic
