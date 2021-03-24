@@ -95,13 +95,13 @@ namespace wcw
 		
         if(m_is_reverse)
         {
-          std::cout << (*it).word() << std::endl;
-          check = (*it).translate();
+          std::cout << (*it).translate() << std::endl;
+          check = (*it).word();
         }
         else
         {
-          std::cout << (*it).translate() << std::endl;
-          check = (*it).word();
+          std::cout << (*it).word() << std::endl;
+          check = (*it).translate();
         }
 		
         std::getline(std::cin, res);

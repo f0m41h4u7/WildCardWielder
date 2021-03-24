@@ -8,13 +8,13 @@ int main(int argc, char** argv)
 {
   try
   {
-    po::options_description desc("WildCardWielder - tool for learning words. Usage:");
+    po::options_description desc("WildCardWielder - tool for learning words. Usage");
     desc.add_options()
-      ("help", "produce help message")
-      ("f", po::value<std::string>(), "provide path to file with cards")
-      ("r", "set reverse mode")
+      ("help,h", "produce help message")
+      ("file,f", po::value<std::string>(), "provide path to file with cards")
+      ("reverse,r", "set reverse mode")
     ;
-
+    
     po::variables_map vm;
     po::store(po::parse_command_line(argc, argv, desc), vm);
     po::notify(vm);    
@@ -26,8 +26,8 @@ int main(int argc, char** argv)
     }
 
     std::string fname;
-    if (vm.count("f"))
-    fname = vm["compression"].as<std::string>();
+    if (vm.count("file"))
+      fname = vm["file"].as<std::string>();
     else
     {
       std::cerr << "filename is required as an argument\n";
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     }
 	
     bool is_reverse = false;
-    if (vm.count("f"))
+    if (vm.count("reverse"))
       is_reverse = true;
     
     wcw::WildCardWielder w{fname, is_reverse};
