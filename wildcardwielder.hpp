@@ -137,6 +137,8 @@ namespace wcw
       Deck::iterator it;
       m_to_show.clear();
       auto r = 3*cards_qty/4;
+      if(m_whitelist.size() == 0) r = cards_qty;
+      else if(m_to_repeat.size() == 0) r = 0;
       
       for(std::size_t i = 0; i < r; ++i)
       {
