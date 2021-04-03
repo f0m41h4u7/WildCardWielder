@@ -249,7 +249,7 @@ reppu-backpack
 tärkeä-important
 lounas-dinner
 talvi-winter
-kylmä-hot
+kuuma-hot
 jäätelö-icecream
 pian-soon
 luoti-bullet
@@ -334,7 +334,7 @@ eilen-yesterday
 sotilas-soldier
 tavallinen-usual
 vanha-old
-kuuma-cold
+kylmä-cold
 vakava-serious
 ravintola-restaraunt
 rinta-chest
