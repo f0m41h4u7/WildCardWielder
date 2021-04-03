@@ -18,6 +18,9 @@ namespace wcw
   constexpr char const* right_response = "rrright!\n";
   
   constexpr std::size_t cards_qty = 10;
+
+  constexpr char const* file_error = "failed to open file ";
+  constexpr char const* rand_device = "/dev/urandom";
   
   class WildCardWielder
   {
@@ -33,7 +36,7 @@ namespace wcw
       std::ifstream file(m_fname);
       if(!file)
       {
-        std::cerr << "failed to open file " << m_fname << std::endl;
+        std::cerr << file_error << m_fname << std::endl;
         return 0;
       }
       
@@ -68,7 +71,7 @@ namespace wcw
       std::ofstream file(m_fname);
       if(!file)
       {
-        std::cerr << "failed to open file " << m_fname << std::endl;
+        std::cerr << file_error << m_fname << std::endl;
         return;
       }
       
@@ -125,7 +128,7 @@ namespace wcw
   private:
     Deck::iterator get_random_card(Deck::iterator start, Deck::iterator end)
     {
-      static std::random_device rd("/dev/urandom");
+      static std::random_device rd(rand_device);
       static std::mt19937 gen(rd());
       std::uniform_int_distribution<int> dist(0, std::distance(start, end) - 1);
       std::advance(start, dist(gen));
@@ -136,18 +139,18 @@ namespace wcw
     {
       Deck::iterator it;
       m_to_show.clear();
-      auto r = 3*cards_qty/4;
-      if(m_whitelist.size() == 0) r = cards_qty;
-      else if(m_to_repeat.size() == 0) r = 0;
+      auto from_repeat = 3*cards_qty/4;
+      if(m_whitelist.size() < (cards_qty - from_repeat)) from_repeat = cards_qty;
+      else if(m_to_repeat.size() < from_repeat) from_repeat = m_to_repeat.size();
       
-      for(std::size_t i = 0; i < r; ++i)
+      for(std::size_t i = 0; i < from_repeat; ++i)
       {
         it = get_random_card(m_to_repeat.begin(), m_to_repeat.end());
         (*it).unlink_from_deck();
         m_to_show.push_back(*it);
       }
       
-      for(std::size_t i = 0; i < cards_qty-r; ++i)
+      for(std::size_t i = 0; i < cards_qty - from_repeat; ++i)
       {
         it = get_random_card(m_whitelist.begin(), m_whitelist.end());
         (*it).unlink_from_deck();
