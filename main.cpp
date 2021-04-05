@@ -1,6 +1,6 @@
 #include <boost/program_options.hpp>
 
-#include "wildcardwielder.hpp"
+#include "wildcardwielder.cpp"
 
 namespace po = boost::program_options;
 
