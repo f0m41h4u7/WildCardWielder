@@ -353,3 +353,69 @@ pehmeä-soft
 valitettavasti-unfortunately
 tärkeä-important
 kesä-summer
+viivytellä-procrastinate
+viivyttää-delay
+hyvittää-compensate
+todistaa-prov
+toimittaa-deliver
+asentaa-install
+sivu-page
+salasana-password
+osoittautua-turn out
+vertailla-compare
+vika-failure/fault
+syyttää-blame
+vaatia-demand
+reilu-fair
+rehellinen-honest
+tuki-support
+hermot-nerves
+aivot-brain
+pääkallo-skull
+luu-bone
+tilaus-order
+lintu-bird
+elain-animal
+huutaa-shout
+silti-still
+rentoutua-have a rest
+levätä-relax
+yllättävä-surprising
+vauriot-damage
+luonto-nature
+olla kiinnostunut+(sta)-be interested in
+unelma-dream
+uni-dream(sleep)
+asiantuntija-specialist
+etukäteen-in advance
+punainen-red
+keltainen-yellow
+sininen-blue
+musta-black
+valkoinen-white
+ruskea-brown
+vihreä-green
+oranssi-orange
+edullinen-profitable
+lisäksi-in addition
+heittää-throw
+tarpeeksi-enough
+valinta-choice
+menestys-success
+kokemus-experience
+kokeilla-try
+sekoittaa-mix
+oire-symptom
+väki-crowd
+silmä-eye
+käsi-hand
+jalka-leg
+pää-head
+ansaita-deserve
+se arsyttää minua-it annoys me
+saavutus-achievement
+kaaos-chaos
+raivostuttaa-infuriate
+viihtyä-prosper
+treffit-date(romantic)
+liikkua-move
