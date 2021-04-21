@@ -6,7 +6,6 @@ mene vittuun-go fuck yourself
 torstai-thursday
 pöytä-table
 tuulla-blow
-viini-wine
 mikä-what
 vielä-yet/even
 ihminen-person
@@ -45,8 +44,6 @@ valita-choose
 auttaa-help
 ilta-evening
 pimeä-dark
-pistooli-pistol
-poika-boy
 ystävä-friend
 peruna-potato
 halata-hug
@@ -58,14 +55,12 @@ kauppa-shop
 talvi-winter
 nähdä-see
 nostaa-lift
-tehdä-do
 ruma-ugly
 tappaa-kill
 puhelin-phone
 avata-open
 hymyillä-smile
 katsoa-look
-sanoa-say
 äiti-mother
 liikkua-move
 mielenkiintoinen-interesting
@@ -78,7 +73,6 @@ kevät-spring
 nauraa-laugh
 voileipä-sandwich
 reppu-backpack
-tyhmä-stupid
 uida-swim
 vapaa-free
 kaivata-miss
@@ -112,8 +106,6 @@ sininen-blue
 housut-trousers
 kuolla-die
 ammukset-ammo
-yhdistää-merge
-tulla-come
 mihin-to where
 sopia-fit
 melu-noise
@@ -122,7 +114,6 @@ sieni-mushroom
 tänään-today
 pitkä-long
 porkkana-carrot
-tärkeä-important
 syksy-autumn
 ohjelmoida-programming
 syödä-eat
@@ -133,7 +124,6 @@ saada-may
 punainen-red
 loppua-end
 kone-machine
-asua-live
 kasvaa-grow
 jääkaappi-fridge
 pistää-put
@@ -141,13 +131,11 @@ alkaa-begin
 onni-happiness
 riippua-depend on
 ruskea-brown
-käydä-visit
 valitettavasti-unfortunately
 olut-beer
 juoda-drink
 viedä-take out
 jaksaa-physically can
-hedelmä-fruit
 maanantai-monday
 pyöräillä-cycle
 sänky-bed
@@ -165,7 +153,6 @@ paska-shit
 myyda-sell
 kiva-cool
 etsiä-look for
-laatikko-box
 pelata-play
 mutta-but
 katsoa-watch
@@ -177,15 +164,12 @@ kiertää-evade
 uskoa-believe
 olla lopussa-run out
 kiire-rush
-tehdä-make
 löyttää-find
 perjantai-friday
 opiskella-study
 kusipää-fucker
-uusi-new
 vartti-quarter
 unelma-dream
-tietää-know
 laukku-bag
 konekivääri-machinegun
 hieno-excellent
@@ -196,12 +180,10 @@ rauha-peace
 aurinko-sun
 sana-word
 ruoka-food
-tietokone-computer
 kieli-language
 samoin-likewise
 tylsä-boring
 ase-weapon
-perhe-family
 raha-money
 ampua-shoot
 viedä-export
@@ -217,7 +199,6 @@ antaa periksi-succumb
 lusikka-spoon
 rintaliivit-bra
 ylihuomenna-the day after tomorrow
-laiva-ship
 miten-how
 paita-shirt
 omaksua-hug hard
@@ -242,27 +223,22 @@ peli-game
 ja-and
 päärynä-pear
 oranssi-orange
-lasi-glass
 kestää-take time
 lyödä-smite
 hattu-hat
 ihminen-person
 pestä-wash
 kylmä-cold
-nyt-now
 jo-already
 lounas-dinner
-nauttia-enjoy
 kaivata-miss
 polttaa-burn
 juusto-cheese
-yleensä-usually
 hullu-crazy
 makkara-sausage
 kakku-cake
 jälkeen-after
 kurja-crappy
-alushousut-underpants
 tavallinen-usual
 kanssa-with
 keltainen-yellow
@@ -287,12 +263,9 @@ täällä-here
 kuulla-hear
 haarukka-fork
 musta-black
-ottaa-receive/take
 pian-soon
 ikkuna-window
-pieni-small
 aina-always
-takki-jacket
 ilma-air
 toimia-function
 istua-seat
@@ -317,8 +290,6 @@ siksi-becasue of
 suklaa-chocolate
 valmis-ready
 säiliö-tank
-nälkä-hunger
-koira-dog
 tarpeeksi-enough
 ovi-door
 salainen-secret
@@ -344,10 +315,8 @@ fiksu-clever
 suuri-large
 lyödä-hit
 ruoho-grass
-terve-hi
 missä-where
 kuka-who
-antaa-give
 kaunis-beautiful
 totta kai-of course
 mistä-from where
@@ -364,61 +333,92 @@ lukea-read
 lauantai-saturday
 suu kiinni-shut up
 helppo-easy
-vihainen-angry
 rakennus-building
 hame-skirt
 muistaa-remember
-===
-viivytellä-procrastinate
-viivyttää-delay
-hyvittää-compensate
-todistaa-prove
-toimittaa-deliver
-asentaa-install
-sivu-page
-salasana-password
-osoittautua-turn out
-vertailla-compare
-vika-failure/fault
-syyttää-blame
-vaatia-demand
-reilu-fair
-rehellinen-honest
-tuki-support
-hermot-nerves
-aivot-brain
-pääkallo-skull
+sanoa-say
+treffit-date(romantic)
+asua-live
+laatikko-box
 luu-bone
+poika-boy
+takki-jacket
+tehdä-make
+vika-failure/fault
+vauriot-damage
+alushousut-underpants
+kaaos-chaos
+tehdä-do
+yleensä-usually
+nyt-now
+aivot-brain
+tulla-come
+tietää-know
+käydä-visit
+tyhmä-stupid
+perhe-family
+terve-hi
+uusi-new
+salasana-password
+viini-wine
+vihainen-angry
+unelma-dream
+tietokone-computer
+koira-dog
 tilaus-order
-lintu-bird
-elain-animal
-huutaa-shout
-silti-still
-rentoutua-have a rest
+antaa-give
+pistooli-pistol
+===
+tuki-support
 levätä-relax
 yllättävä-surprising
-vauriot-damage
-luonto-nature
-olla kiinnostunut-be interested in
-unelma-dream
-uni-dream(sleep)
-asiantuntija-specialist
 etukäteen-in advance
-edullinen-profitable
 lisäksi-in addition
-heittää-throw
-valinta-choice
-menestys-success
 kokemus-experience
-sekoittaa-mix
-oire-symptom
-väki-crowd
 silmä-eye
-käsi-hand
 jalka-leg
-ansaita-deserve
-se arsyttää minua-it annoys me
-kaaos-chaos
 raivostuttaa-infuriate
+osoittautua-turn out
+uni-dream(sleep)
+yhdistää-merge
+todistaa-prove
+heittää-throw
+rentoutua-have a rest
+silti-still
+hedelmä-fruit
+lasi-glass
+reilu-fair
+nälkä-hunger
+ottaa-receive/take
+viivyttää-delay
+hermot-nerves
+elain-animal
+valinta-choice
+edullinen-profitable
+se arsyttää minua-it annoys me
+vertailla-compare
+ansaita-deserve
+viivytellä-procrastinate
+olla kiinnostunut-be interested in
+käsi-hand
+sekoittaa-mix
+luonto-nature
+syyttää-blame
+nauttia-enjoy
+laiva-ship
+menestys-success
+rehellinen-honest
+asentaa-install
+toimittaa-deliver
+sivu-page
 viihtyä-prosper
-treffit-date(romantic)
+huutaa-shout
+oire-symptom
+hyvittää-compensate
+pieni-small
+pääkallo-skull
+tärkeä-important
+väki-crowd
+vaatia-demand
+asiantuntija-specialist
+lintu-bird
