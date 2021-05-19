@@ -24,8 +24,8 @@ namespace wcw
     void word(std::string_view w) { m_word = w.data(); }
     void translate(std::string_view t) { m_translate = t.data(); }
     
-    void unlink_from_deck() { auto_unlink_hook::unlink(); }
-    bool is_linked_deck() const { return auto_unlink_hook::is_linked(); }
+    void unlink_from_deck() noexcept { auto_unlink_hook::unlink(); }
+    bool is_linked() const noexcept { return auto_unlink_hook::is_linked(); }
     
   private:
     std::string m_word;
