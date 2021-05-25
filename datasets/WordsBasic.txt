@@ -422,3 +422,88 @@ väki-crowd
 vaatia-demand
 asiantuntija-specialist
 lintu-bird
+räjähtää-to explode
+räjäyttää-to blow up
+haju-smell
+mahdollisuus-possibility
+vaihtoehto-variant
+kaataa-pour
+tyhjentää-to empty
+likainen-dirty
+tapella-fight
+taistella-compete/fight
+lempi-favorite
+ladata-charge
+liittää-attach
+mahtava-stunning
+vitsailla-to joke
+taito-skill
+porukka-gear(equipment)
+lähestyä-approach
+vilkaista-to glance
+siisti-neat
+pärjätä-to manage(problems)
+lupaava-promising
+hylätty-abandoned
+kehittää-develop
+kehitys-development
+henkeäsalpaava-breathtaking
+arvata-guess
+jakaa-share
+tiukka-strict
+aihe-topic
+suostua-agree
+aikomus-intention
+ihmeellinen-wonderful
+happi-oxygen
+luonteva-natural
+toipua-recover
+tuskallinen-painful
+vihata-hate
+tarkkuus-precision
+hulluus-insanity
+todennäköisesti-probably
+laatu-quality
+laadullinen-high_quality
+edistynyt-advanced
+hyöty-benefit
+vastuu-responsibility
+tyhjyys-void
+pudota-fall
+järkevä-reasonable
+satunnainen-random
+yleinen-common
+ämpäri-bucket
+paheksua-resent
+karata-escape
+totella-obey
+halkaista-crack open
+yhtäkkiä-suddenly
+satuttaa-to hurt
+houkutella-to tempt ;-)
+hermot-nerves
+huolestua-get anxious
+iskeä-strike
+kohdata-encounter
+poimia-collect resources
+askel-step
+metsästää-hunt
+jahdata-chase
+paristo-battery
+luopua +sta -give up smth
+sokea-blind
+kuro-deaf
+mikäli-in case
+nauttia-enjoy
+havoittaa-injure
+murhata-to murder
+rangaista-punish
+suojata +lta-protect from
+tyytymys-pleasure
+kiistaa-dispute
+karata-escape
+joustava-flexible
+kiukutella-whine
+kadottaa-lose
+pudottaa-drop
+hirttia/ripustaa-hang
