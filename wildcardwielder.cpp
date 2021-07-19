@@ -69,7 +69,7 @@ namespace wcw
     std::string res, check;
     Deck::iterator it;
     
-    for(std::size_t i = 0; i < cards_qty; ++i)
+    while(!m_to_show.empty())
     {
       it = get_random_card(m_to_show.begin(), m_to_show.end());
   
@@ -90,7 +90,7 @@ namespace wcw
       {
         std::cout << wrong_response << check << newline;
         (*it).unlink_from_deck();
-        m_to_repeat.push_back(*it);
+        m_to_show.push_back(*it);
       }
       else 
       {

@@ -1,4 +1,3 @@
-jo-already
 reppu-backpack
 herätä-to wake up
 uni-dream(sleep)
@@ -30,15 +29,11 @@ luu-bone
 paita-shirt
 kokeilla-to test
 porkkana-carrot
-tukka-hair
 levätä-to relax
 unohtaa-to forget
-lounas-dinner
-totta kai-of course
 saavutus-achievement
 ottaa mukaan-to take with
 toimia-function
-lainata-borrow
 hymyillä-smile
 kamala-horrible
 kiire-rush
@@ -47,14 +42,12 @@ keittiö-kitchen
 päästä-reach
 luonteva-natural
 tiedotus-information
-antaa-give
 juna-train
 suu-mouth
 takki-jacket
 myöhään-late
 alkaa-to begin
 ase-weapon
-happi-oxygen
 sataa-to rain
 todennäköisesti-probably
 katu-street
@@ -95,17 +88,12 @@ viivyttää-to delay
 muuttaa-to migrate
 toissapäivänä-the day before yesterday
 nätti-pretty
-lasi-glass
 vertailla-to compare
 neuvo-advice
 tylsä-boring
-edullinen-profitable
 rakentaa-to build
-vartti-quarter
 ongelma-problem
 kohtelias-polite
-iloinen-cheerful
-taito-skill
 rehellinen-honest
 liittää-to attach
 jalka-leg
@@ -114,7 +102,6 @@ myrsky-storm
 ostos-purchase
 sama-same
 hakea-seek
-pimeä-dark
 eilen-yesterday
 sydän-heart
 saapua-to arrive
@@ -125,7 +112,6 @@ kihara-curly
 nousta-to get up
 asia-issue
 pysähtyä-to stop
-harrastus-hobby
 vastata-to answer
 heti-immidiately
 asiantuntija-specialist
@@ -155,7 +141,6 @@ oletusarvoisesti-by default
 henkeäsalpaava-breathtaking
 kysyä-to ask
 imuroida-to vacuum
-oma-own
 osata-to know how to
 suihku-shower
 puku-suit
@@ -165,7 +150,6 @@ kirjoituspöytä-desk
 viileä-cool
 makuuhuone-bedroom
 ylös-up
-pyörä-bicycle
 soittaa-to call
 piha-yard
 löyttää-to find
@@ -175,7 +159,6 @@ pääkallo-skull
 tarpeeksi-enough
 eteinen-hall
 yöpyä-to spend night
-palo-fire
 kranaatti-grenade
 vastaus-answer
 elämä-life
@@ -185,38 +168,58 @@ aina-always
 varata-to book
 tuulusta-windy
 sohva-sofa
-sataa vettä-raining
 pehmeä-soft
-luonto-nature
 henkilö-person
 puu-tree
 loma-holiday
 veri-blood
-kutsu-invitation
 myydä-to sell
 siivota-to clean up
 surullinen-sad
 tutkia-to explore/examine
 olla olemassa-to exist
 uida-to swim
+lainata-borrow
+pakkonen-freezing
+toivottavasti-hopefully
+oma-own
+pyörä-bicycle
+happi-oxygen
+lounas-dinner
+lasi-glass
+jo-already
+toivoa-to hope
+iloinen-cheerful
+viivytellä-procrastinate
+hermot-nerves
+halpa-cheap
+pimeä-dark
+palo-fire
+antaa-give
+vartti-quarter
+ystävyys-friendship
+edullinen-profitable
+valmis-ready
+tukka-hair
+sairaala-hospital
+säiliö-tank
+sataa räntä-sleet
+harrastus-hobby
+kutsua-to invite
+elintaso-standard of living
+luonto-nature
+kiroilla-swear
+yllättävä-surprising
 ===
 kieli-langiage
 pistää-to put
-valmis-ready
 askel-step
 metsästää-to hunt
 menestys-success
-hermot-nerves
 mahdollisuus-possibility
-vitsailla-to joke
 aihe-topic
-pakkonen-freezing
 kadottaa-to lose
-laadullinen-high quality
-aikomus-intention
 kehitys-development
-heittää-to throw
-joustava-flexible
 selvä-clear(understood)
 kysymys-question
 tutkimus-research
@@ -229,45 +232,33 @@ tuskallinen-painful
 olla väärässä-to be wrong
 selkeää-clear
 kohta-soon
-jakaa-to share
 tapella-to fight
 olla varma-to be sure
-ystävyys-friendship
 vieräs-guest/stranger
 lähellä-near
 haju-smell
 lempi-favorite
-kutsua-to invite
-toivottavasti-hopefully
 tuntea-to know(person)
 kehittää-to develop
-vaihtoehto-variant
 pudottaa-to drop
-sairaala-hospital
-yllättävä-surprising
 lähestyä-approach
 reilu-fair
 luopua-to give up smth
 yhtäkkiä-suddenly
-osoittautua-to turn out
 tiukka-strict
 kaataa-to pour
 kiukutella-to whine
-ammatti-profession
 hulluus-insanity
 käsi-hand
-sataa räntä-sleet
 vanhemmat-parents
 tyhjyys-void
 todistaa-to prove
 likainen-dirty
 se arsyttää minua-it annoys me
 tyytymys-pleasure
-yleinen-common
 murhata-to murder
 kaula-neck
 suostua-to agree
-taistella-to compete/fight
 elain-animal
 ikkuna-window
 parveke-balcony
@@ -279,7 +270,6 @@ kova-hard
 leveä-wide
 kapea-narrow
 olohuone-living room
-valo-light
 matala-low
 korkea-high
 hylly-shelf
@@ -292,21 +282,16 @@ kellari-cellar
 auki-opened
 kiinni-closed
 kylpyhuone-bathroom
-verhot-drapes
 peili-mirror
 pesuallas-a sink
 hissi-elevator
 metsä-forest
 länsi-west
-ukkonen-thunder
-viivytellä-procrastinate
 lintu-bird
 edistynyt-advanced
-toivoa-to hope
 tapahtua-happen
 laukku-bag
 hyöty-benefit
-huoli-a worry
 satuttaa-to hurt
 kylpyamme-bath
 laiha-thin
@@ -318,46 +303,32 @@ siisti-neat
 juhlia-celebrate
 räjäyttää-to blow up
 alas-down
-juosta-run
 räjähtää-to explode
-laatu-quality
 olla oikeassa-be right
-huonekalut-furniture
 tauko-a break
 sivu-page
 soida-to ring
-kirjoitelma-essay
 kodikas-cozy
 mahtava-stunning
 ihmeellinen-wonderful
-vaatia-to demand
 tarkistaa-to check
 nojatuoli-armchair
 kallis-expensive
-halpa-cheap
 roskakori-trash
 vuosi-year
 viihtyä-prosper
-elintaso-standard of living
 johtua-be due to
-selittää-explain
 toistaiseksi-for now
-ympyrä-circle
 miekka-sword
 upea-awesome
 ikuisesti-forever
-noin-approximately
 kasvaa-grow
-kiertää-evade
-kiroilla-swear
 samoin-likewise
 jousipyssy-bow
-antaa periksi-succumb
 omaksua-hug hard
 niin-so
 luoti-bullet
 vakava-serious
-säiliö-tank
 hyväillä-caress
 pommi-bomb
 tuki-support
@@ -368,9 +339,6 @@ huutaa-shout
 hyvittää-compensate
 väki-crowd
 vilkaista-to glance
-pärjätä-to manage(problems)
-lupaava-promising
-hylätty-abandoned
 toipua-recover
 hyöty-benefit
 paheksua-resent
@@ -379,9 +347,41 @@ halkaista-crack open
 huolestua-get anxious
 iskeä-strike
 poimia-collect resources
-askel-step
 mikäli-in case
-rangaista-punish
 suojata-protect from
 kiistaa-dispute
 hirttia/ripustaa-hang
+rangaista-punish
+verhot-drapes
+antaa periksi-succumb
+noin-approximately
+kutsu-invitation
+joustava-flexible
+vaatia-to demand
+aikomus-intention
+ammatti-profession
+heittää-to throw
+valo-light
+laatu-quality
+laadullinen-high quality
+taistella-to compete/fight
+kiertää-evade
+osoittautua-to turn out
+ukkonen-thunder
+vitsailla-to joke
+sataa vettä-raining
+juosta-run
+vaihtoehto-variant
+huonekalut-furniture
+kirjoitelma-essay
+selittää-explain
+jakaa-to share
+askel-step
+taito-skill
+ympyrä-circle
+hylätty-abandoned
+lupaava-promising
+totta kai-of course
+pärjätä-to manage(problems)
+yleinen-common
+huoli-a worry
