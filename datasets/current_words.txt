@@ -1,34 +1,24 @@
 reppu-backpack
-herätä-to wake up
 uni-dream(sleep)
-aikaisin-early
-pullo-bottle
 lisäksi-in addition
 nauraa-to laugh
 vahingoittaa-to injure
 tuulla-to blow
 ansaita-to deserve
 vika-failure/fault
-viettää-to spend
 olla jäljellä-be left
 tarjota-to offer
 korjata-fix
 lähteä-to depart
-joki-river
 halata-hug
-vielä-yet/even
 tuoli-chair
 puisto-park
 kokemus-experience
-kerros-floor
 tavallisesti-usually
-sieni-mushroom
 pilvista-cloudly
-yrittää-try
 luu-bone
 paita-shirt
 kokeilla-to test
-porkkana-carrot
 levätä-to relax
 unohtaa-to forget
 saavutus-achievement
@@ -38,22 +28,16 @@ hymyillä-smile
 kamala-horrible
 kiire-rush
 olla kiinnostunut-to be interested in
-keittiö-kitchen
 päästä-reach
 luonteva-natural
 tiedotus-information
 juna-train
 suu-mouth
-takki-jacket
-myöhään-late
 alkaa-to begin
 ase-weapon
 sataa-to rain
-todennäköisesti-probably
 katu-street
 avata-to open
-tuoda-bring
-tosi-real
 pää-head
 joskus-sometimes
 yrittää-to try
@@ -63,75 +47,52 @@ ruma-ugly
 laiva-ship
 asentaa-install
 polttaa-burn
-olla kunnossa-is okay
-ehkä-perhaps
-näyttää-to show
 toimittaa-to deliver
-porukka-gear(equipment)
 porkkana-carrot
 paikka-place
 vauriot-damage
 iltä-east
 sataa lunta-is snowing
-ilmoittautua-to register
-pudota-to fall
 terveys-health
 asukas-resident
-nimi-name
 puolipilvista-half cloudly
 pohjoinen-north
 jahdata-to chase
 aamupala-breakfast
 riippua-to depend on
-saada-may
 viivyttää-to delay
 muuttaa-to migrate
 toissapäivänä-the day before yesterday
 nätti-pretty
 vertailla-to compare
 neuvo-advice
-tylsä-boring
 rakentaa-to build
 ongelma-problem
 kohtelias-polite
 rehellinen-honest
-liittää-to attach
-jalka-leg
 vihata-to hate
 myrsky-storm
 ostos-purchase
-sama-same
-hakea-seek
+hakea-seek/go and bring
 eilen-yesterday
-sydän-heart
-saapua-to arrive
 tila-space
-viedä-to take out
-hyvännäköinen-good looking
-kihara-curly
 nousta-to get up
 asia-issue
-pysähtyä-to stop
 vastata-to answer
 heti-immidiately
-asiantuntija-specialist
-riidellä-to quarrel
 nauttia-to enjoy
 häiritä-to disturb
 vain-only
 arvata-to guess
 elää-to live
-vastuu-responsibility
 sähkö-electricity
 ladata-to charge
-hieno-excellent
 nälkä-hunger
 jutella-to chat
 sumuista-foggy
 hauska-fun
 järkevä-reasonable
 ryhmä-group
-maalata-to paint
 hiljainen-quiet
 ranta-shore
 vertailla-to compare
@@ -140,51 +101,28 @@ aloittaa-to start
 oletusarvoisesti-by default
 henkeäsalpaava-breathtaking
 kysyä-to ask
-imuroida-to vacuum
 osata-to know how to
-suihku-shower
-puku-suit
 etsiä-to search
 karata-to escape
-kirjoituspöytä-desk
-viileä-cool
 makuuhuone-bedroom
-ylös-up
 soittaa-to call
-piha-yard
 löyttää-to find
 sade-rain
 pian-soon
-pääkallo-skull
 tarpeeksi-enough
 eteinen-hall
-yöpyä-to spend night
-kranaatti-grenade
-vastaus-answer
 elämä-life
-melu-noise
 etelä-south
 aina-always
 varata-to book
 tuulusta-windy
-sohva-sofa
-pehmeä-soft
-henkilö-person
 puu-tree
-loma-holiday
 veri-blood
 myydä-to sell
-siivota-to clean up
-surullinen-sad
-tutkia-to explore/examine
 olla olemassa-to exist
-uida-to swim
 lainata-borrow
 pakkonen-freezing
 toivottavasti-hopefully
-oma-own
-pyörä-bicycle
-happi-oxygen
 lounas-dinner
 lasi-glass
 jo-already
@@ -192,196 +130,381 @@ toivoa-to hope
 iloinen-cheerful
 viivytellä-procrastinate
 hermot-nerves
-halpa-cheap
 pimeä-dark
 palo-fire
 antaa-give
-vartti-quarter
 ystävyys-friendship
 edullinen-profitable
-valmis-ready
 tukka-hair
-sairaala-hospital
 säiliö-tank
-sataa räntä-sleet
 harrastus-hobby
-kutsua-to invite
 elintaso-standard of living
 luonto-nature
 kiroilla-swear
 yllättävä-surprising
-===
-kieli-langiage
-pistää-to put
-askel-step
-metsästää-to hunt
-menestys-success
-mahdollisuus-possibility
-aihe-topic
-kadottaa-to lose
-kehitys-development
-selvä-clear(understood)
-kysymys-question
-tutkimus-research
-tilata-to order
-lämittää-to warm
-lahja-gift
+olohuone-living room
+piha-yard
+yritys-company
+sieni-mushroom
+loma-holiday
+luoti-bullet
+pyörä-bicycle
+nimi-name
+yhteinen-shared/joined
+ehkä-perhaps
+valmis-ready
+sydän-heart
+imuroida-to vacuum
+perua-to cancel
+ikkuna-window
+yrittää-try
+kirjoitelma-essay
+tutkia-to explore/examine
+yöpyä-to spend night
+takki-jacket
 kaali-cabbage
-paristo-battery
-tuskallinen-painful
-olla väärässä-to be wrong
+porukka-gear(equipment)
+vanhemmat-parents
+sairaala-hospital
+tylsä-boring
+räjähtää-to explode
+rauhallinen-calm
+sama-same
+metsästää-to hunt
+sataa räntä-sleet
+leippoa-to bake
+joki-river
+tuntea-to know(person)
+porkkana-carrot
+asiantuntija-specialist
+riidellä-to quarrel
+kranaatti-grenade
+heittää-to throw
+toistaiseksi-for now
+yhteistyö-cooperation
+totella-obey
+uida-to swim
+satunnainen-random
+tuoda-bring
+palaute-feedback
+hyvittää-compensate
+tyytymys-pleasure
+hieno-excellent
+pommi-bomb
+pudottaa-to drop
+pehmeä-soft
+osoittautua-to turn out
+noin-approximately
+samoin-likewise
+hoitaa-to take care
+hulluus-insanity
+ensiapulaukku-first aid
+kysymys-question
+vaihtoehto-variant
+vielä-yet/even
+melu-noise
+tyhjyys-void
+taito-skill
+lahja-gift
+kätevä-handy
+murhata-to murder
+länsi-west
+miettiä-to think about
+askel-step
+kiukutella-to whine
+tarkoittaa-to mean
+paheksua-resent
+kiinni-closed
+suihku-shower
+vastaus-answer
+selvä-clear(understood)
+haju-smell
+oma-own
+viihtyä-prosper
+pysäkki-a stop
+jakaa-to share
+todistaa-to prove
+alas-down
+herätä-to wake up
+hylly-shelf
+lupaava-promising
+kapea-narrow
+siivota-to clean up
+jäädä pois-get off
+kylpyamme-bath
+halkaista-crack open
+myöhästyä-to be late
+ilmoiseksi-free of charge
+kuvata-describe
+viileä-cool
+olla hoidossa-undergo treatment
+hyöty-benefit
+pääkallo-skull
+kallis-expensive
+rangaista-punish
+huolestua-get anxious
+happi-oxygen
+kaataa-to pour
+lähellä-near
+vastuu-responsibility
+kieli-langiage
+tauko-a break
+matto-carpet
+puku-suit
+parveke-balcony
+osoite-address
+hyvännäköinen-good looking
+valo-light
+tilata-to order
+pesuallas-a sink
+mikäli-in case
+kammata-to comb hair
+pullo-bottle
+pysähtyä-to stop
+muistitikku-memory stick
+vaatia-to demand
+hammasharja-tooth brush
+ratkaista-to solve
+kulkea-to pass/go (about bus)
+rappu-stair
+verhot-drapes
+toivottaa-to wish
+aikaisin-early
+pärjätä-to manage
+älykäs-smart
+hylätty-abandoned
+laiha-thin
+viettää-to spend
+taistella-to compete/fight
+sohva-sofa
+särky-ache
+liittää-to attach
+kuumemittari-thermometer
+aikaisemmi-earlier
+tutustua-to meet
+olla kunnossa-is okay
+säästää-to spare
+kulmakarvat-brows
+sekoittaa-mix
+alue-area/territory
+myöhään-late
+kampa-a comb
+lasku-bill
+pistää-to put
+menestys-success
+sammuttaa-extinguish
+lähiaika-nearest time
+satuttaa-to hurt
+puuttua-to intervene
+jalka-leg
+reilu-fair
+maalata-to paint
+tarkkuus-precision
+tosi-real
+ensi-next
+lääke-medicine
+laukku-bag
+laadullinen-high quality
+likainen-dirty
+käsi-hand
+halpa-cheap
+vuosi-year
+siisti-neat
+hyödyllinen-useful
+vaihdella-to vary
+kova-hard
+raivostuttaa-infuriate
+sateenvarjo-umbrella
+kaikkialla-everywhere
+kutsua-to invite
+nojatuoli-armchair
+kantaa-carry
+seinä-wall
+hintaan-at the cost of
+jousipyssy-bow
+todennäköisesti-probably
+luotettava-reliable
+maksa-liver
+vartti-quarter
+viedä-to take out
+aihe-topic
+se arsyttää minua-it annoys me
+huonekalut-furniture
+etukäteen-in advance
+nenä-nose
+selittää-explain
+tuomio-judjement
+ukkonen-thunder
+tuki-support
+vaatia-to demand
+sisäelimet-internal organs
+kihara-curly
+turhaan-unnecessarily
+totta kai-of course
+tarkistaa-to check
+iskeä-strike
+kuulua-belong/to be included
+kaula-neck
+juosta-run
+ylös-up
+vakava-serious
+ilmoittautua-to register
+mahtava-stunning
+saapua-to arrive
+näyttää-to show
+viihtyisä-homely
+===
+askel-step
+mahdollisuus-possibility
+kehitys-development
 selkeää-clear
 kohta-soon
 tapella-to fight
 olla varma-to be sure
-vieräs-guest/stranger
-lähellä-near
-haju-smell
-lempi-favorite
-tuntea-to know(person)
 kehittää-to develop
-pudottaa-to drop
-lähestyä-approach
-reilu-fair
 luopua-to give up smth
 yhtäkkiä-suddenly
-tiukka-strict
-kaataa-to pour
-kiukutella-to whine
-hulluus-insanity
-käsi-hand
-vanhemmat-parents
-tyhjyys-void
-todistaa-to prove
-likainen-dirty
-se arsyttää minua-it annoys me
-tyytymys-pleasure
-murhata-to murder
-kaula-neck
 suostua-to agree
 elain-animal
-ikkuna-window
-parveke-balcony
-harmaa-gray
 vaatekaappi-wardrobe
-matto-carpet
-lattia-floor
-kova-hard
 leveä-wide
-kapea-narrow
-olohuone-living room
 matala-low
 korkea-high
-hylly-shelf
-seinä-wall
-viihtyisä-homely
 sotkuinen-messy
-kantaa-carry
-apu-help
-kellari-cellar
-auki-opened
-kiinni-closed
-kylpyhuone-bathroom
-peili-mirror
-pesuallas-a sink
 hissi-elevator
-metsä-forest
-länsi-west
 lintu-bird
 edistynyt-advanced
-tapahtua-happen
-laukku-bag
 hyöty-benefit
-satuttaa-to hurt
-kylpyamme-bath
-laiha-thin
-nenä-nose
-tarkkuus-precision
-satunnainen-random
-suhde-relationship
-siisti-neat
 juhlia-celebrate
-räjäyttää-to blow up
-alas-down
-räjähtää-to explode
-olla oikeassa-be right
-tauko-a break
 sivu-page
-soida-to ring
 kodikas-cozy
-mahtava-stunning
 ihmeellinen-wonderful
-tarkistaa-to check
-nojatuoli-armchair
-kallis-expensive
 roskakori-trash
-vuosi-year
-viihtyä-prosper
-johtua-be due to
-toistaiseksi-for now
-miekka-sword
 upea-awesome
 ikuisesti-forever
 kasvaa-grow
-samoin-likewise
-jousipyssy-bow
 omaksua-hug hard
 niin-so
-luoti-bullet
-vakava-serious
-hyväillä-caress
-pommi-bomb
-tuki-support
-etukäteen-in advance
-raivostuttaa-infuriate
-sekoittaa-mix
 huutaa-shout
-hyvittää-compensate
-väki-crowd
 vilkaista-to glance
 toipua-recover
-hyöty-benefit
-paheksua-resent
-totella-obey
-halkaista-crack open
-huolestua-get anxious
-iskeä-strike
-poimia-collect resources
-mikäli-in case
 suojata-protect from
 kiistaa-dispute
-hirttia/ripustaa-hang
-rangaista-punish
-verhot-drapes
-antaa periksi-succumb
-noin-approximately
 kutsu-invitation
 joustava-flexible
-vaatia-to demand
 aikomus-intention
 ammatti-profession
-heittää-to throw
-valo-light
-laatu-quality
-laadullinen-high quality
-taistella-to compete/fight
-kiertää-evade
-osoittautua-to turn out
-ukkonen-thunder
-vitsailla-to joke
 sataa vettä-raining
-juosta-run
-vaihtoehto-variant
-huonekalut-furniture
-kirjoitelma-essay
-selittää-explain
-jakaa-to share
-askel-step
-taito-skill
-ympyrä-circle
-hylätty-abandoned
-lupaava-promising
-totta kai-of course
 pärjätä-to manage(problems)
 yleinen-common
+kuluttaa-spend/consume
+sijaita-to be located
+tilanne-situation
+johtaja-manager
+korvaus-compensation
+näköala-a view
+vuokrata-to rent
+kiinnostaa-to interest
+molemmat-both
+mihin saakka-until when
+eläke-pension
+tarkka-exact
 huoli-a worry
+kauhea-terrible
+ympyrä-circle
+palvelut-infrastructure services
+kerros-floor
+olla oikeassa-be right
+väki-crowd
+meluisa-loud
+laatu-quality
+lähestyä-approach
+olla väärässä-to be wrong
+saada-may
+tutkimus-research
+hyväillä-caress
+pudota-to fall
+lattia-floor
+suhde-relationship
+kadottaa-to lose
+tiukka-strict
+miekka-sword
+auki-opened
+poimia-collect resources
+soida-to ring
+vieräs-guest/stranger
+kylpyhuone-bathroom
+ei mitään erityistä-nothing special
+vitsailla-to joke
+tuskallinen-painful
+surullinen-sad
+johtua-be due to
+lempi-favorite
+lämittää-to warm
+tulevaisuus-future
+hyöty-benefit
+kirjoituspöytä-desk
+paristo-battery
+hirttia/ripustaa-hang
+räjäyttää-to blow up
+kellari-cellar
+metsä-forest
+tapahtua-happen
+kiertää-evade
+peili-mirror
+antaa periksi-succumb
+sovellus-app
+tili-account
+asioida-to do business
+maukas-tasty
+puuttaa-to lack
+laturi-charger
+kännykkä-mobile phone
+vaatteet-clothes
+onnistunut-successful
+perustella-justify
+pyytää-to request
+asiakas-client
+aihe-topic
+lyhentyä-shorten
+rokote-vaccine
+rokotus-vaccination
+poikeusolo tilanne-emergency situation
+eristää-to isolate
+rajoittaa-to restrict
+olla voimassa-be valid
+sankari-hero
+ilmoittaa-to declare
+määrä-amount
+kasvoa-to grow
+tartuttaa-to infect
+tartunta-infection
+vaivata-to bother
+hengittää-to breathe
+määrätä-to prescribe/order
+parata-to get weel/improve
+tehokas-effective
+vastaanotto-reception
+mitata-to measure
+tänä-this
+viime-last
+joku-someone
+särkylääke-painkiller
+pääsy-access/entry
+ranne-wrist
+sormi-finger
+varvas-toe
+reisi-thigh
+kasvot-face
+hartia-shoulder
+käsivarsi-arm
+selkä-back
+nilkka-ankle
+otsa-forehead
+leuka-chin
+keuhko-lung
+mahalaukku-stomach
+munuainen-kidney
+selkäranka-spine
+yskä-cough
+vatsa-belly
